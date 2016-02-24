@@ -1,2 +1,3 @@
 Magic-Squares
-COP3503 Project 1
+
+Project 1 for COP3503
